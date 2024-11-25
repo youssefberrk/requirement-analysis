@@ -115,3 +115,52 @@ The Requirement Analysis phase involves several critical activities to ensure th
 
 Each of these activities plays a vital role in ensuring that the software development process begins with a strong and accurate foundation, reducing risks and enhancing the chances of project success.
 
+# Types of Requirements
+
+In the context of a booking management system, such as those for Airbnb or OYO, requirements can be categorized into **Functional** and **Non-Functional Requirements**. Each type plays a vital role in defining what the system must do and how it should operate.
+
+## Functional Requirements
+
+Functional requirements describe the core functionalities and behavior of the system. They focus on **what the system should do** to meet the users' needs.
+
+### Examples for a Booking Management System:
+- **User Authentication:**  
+  Users must be able to register and log in using various methods, including email, social media platforms, or Single Sign-On (SSO).  
+- **Search Functionality:**  
+  The system should allow users to search for properties using filters such as location, price range, amenities, and availability.  
+- **Booking Process:**  
+  Users should be able to select booking dates, confirm details, and securely make payments.  
+- **Communication:**  
+  Provide a messaging feature enabling direct communication between guests and hosts.  
+- **Cancellation and Refunds:**  
+  Support cancellation policies and automate refund processes based on predefined rules.  
+- **Review System:**  
+  Enable guests to leave reviews and ratings for properties and hosts&#8203;:contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}.
+
+---
+
+## Non-Functional Requirements
+
+Non-functional requirements define the quality attributes and operational aspects of the system. They focus on **how the system performs its functions** and address broader performance goals.
+
+### Examples for a Booking Management System:
+- **Performance:**  
+  Pages must load in under 3 seconds, even during peak user traffic.  
+- **Scalability:**  
+  The system must support thousands of concurrent users without performance degradation.  
+- **Data Security:**  
+  Ensure compliance with regulations like GDPR and PCI DSS to protect user data and transactions.  
+- **Availability:**  
+  Guarantee 99.9% uptime, minimizing maintenance downtime.  
+- **User-Friendliness:**  
+  Provide an intuitive interface for a seamless user experience across devices.  
+- **Compatibility:**  
+  Ensure the system operates smoothly on a variety of devices, including desktops, smartphones, and tablets&#8203;:contentReference[oaicite:2]{index=2}&#8203;:contentReference[oaicite:3]{index=3}.
+
+---
+
+## Importance of Categorizing Requirements
+
+Understanding and documenting both functional and non-functional requirements ensures the system is designed to meet user expectations while delivering high performance and reliability. A well-balanced approach to both types of requirements lays a strong foundation for project success.
+
+
