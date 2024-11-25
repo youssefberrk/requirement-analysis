@@ -74,3 +74,44 @@ Requirement Analysis is a cornerstone of the Software Development Lifecycle (SDL
 
 By emphasizing clarity, accuracy, and thoroughness during the Requirement Analysis phase, teams can lay a strong foundation for successful software development, ensuring that the project meets its objectives efficiently and effectively.
 
+## Key Activities in Requirement Analysis
+
+The Requirement Analysis phase involves several critical activities to ensure that all stakeholder needs are accurately captured, documented, and validated. Below are the five key activities involved:
+
+### 1. **Requirement Gathering**  
+   - Identify and collect initial information about the project goals, objectives, and expectations.  
+   - Engage with stakeholders, such as clients, users, and business managers, to understand their needs.  
+   - Use tools and techniques like interviews, surveys, and brainstorming sessions to gather data.  
+
+---
+
+### 2. **Requirement Elicitation**  
+   - Actively extract detailed requirements through direct interaction with stakeholders.  
+   - Use advanced techniques such as workshops, focus groups, prototyping, and observation to uncover implicit needs.  
+   - Address conflicting or unclear requirements by collaborating with stakeholders to resolve ambiguities.  
+
+---
+
+### 3. **Requirement Documentation**  
+   - Organize and record gathered requirements in a structured and clear format.  
+   - Create formal documents such as the Software Requirement Specification (SRS), user stories, or functional requirement documents.  
+   - Ensure that the documentation is complete, unambiguous, and accessible to all stakeholders.  
+
+---
+
+### 4. **Requirement Analysis and Modeling**  
+   - Analyze the gathered requirements to ensure they are feasible, realistic, and aligned with project goals.  
+   - Use modeling techniques like flowcharts, use case diagrams, or data flow diagrams to represent requirements visually.  
+   - Prioritize requirements based on business value, technical complexity, and stakeholder input.  
+
+---
+
+### 5. **Requirement Validation**  
+   - Review the documented requirements with stakeholders to confirm they accurately reflect their needs and expectations.  
+   - Conduct validation sessions such as peer reviews, walkthroughs, or prototyping demonstrations.  
+   - Ensure that requirements are testable and measurable, setting the stage for successful development and testing.  
+
+---
+
+Each of these activities plays a vital role in ensuring that the software development process begins with a strong and accurate foundation, reducing risks and enhancing the chances of project success.
+
