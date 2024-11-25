@@ -192,3 +192,39 @@ Below is a use case diagram that highlights the interactions between the actors 
 
 This diagram provides a high-level overview of the functionalities and interactions, offering valuable insights for both development and stakeholder collaboration.
 
+## Acceptance Criteria
+
+### Importance of Acceptance Criteria in Requirement Analysis
+Acceptance Criteria (AC) are essential components in the Requirement Analysis phase, as they define the specific conditions that must be met for a feature or user story to be considered complete and functional. These criteria are vital for ensuring that the final product aligns with the requirements and expectations of stakeholders. 
+
+By setting clear and measurable standards, acceptance criteria help:
+- **Ensure Clarity:** Provide a clear definition of what needs to be done, reducing misunderstandings and ambiguities.
+- **Guide Development and Testing:** Serve as a reference for both developers and testers to know what to build and how to verify the system’s functionality.
+- **Facilitate Communication:** Allow stakeholders to validate that the system fulfills their needs before moving to the next phase.
+- **Control Scope:** Prevent scope creep by ensuring that features and functionalities are developed according to predefined expectations.
+
+### Example of Acceptance Criteria for the Checkout Feature
+
+For a **Checkout** feature in the booking management system, the following acceptance criteria might be defined:
+
+1. **Payment Method Selection:**
+   - The system must allow users to select from at least three payment methods, such as credit cards, PayPal, and bank transfer.
+   - The user should be able to enter payment details securely, and the system must validate the card number, expiration date, and security code.
+
+2. **Price Breakdown:**
+   - The system must display a detailed breakdown of the booking charges, including property cost, service fees, taxes, and discounts, before proceeding to payment.
+
+3. **Confirmation Message:**
+   - After completing payment, the user must receive a confirmation message on the screen indicating that the booking was successful, including a summary of the booking details.
+
+4. **Secure Payment Processing:**
+   - All payment transactions must be processed using industry-standard encryption (SSL/TLS) to ensure secure transfer of payment information.
+
+5. **Error Handling:**
+   - If the payment fails (e.g., due to insufficient funds), the system should display an error message and allow the user to retry payment or choose an alternative payment method.
+
+6. **Receipt Generation:**
+   - A digital receipt must be generated and sent to the user's email address within 5 minutes of successful payment, containing booking details and payment information.
+
+These criteria ensure that the checkout process is user-friendly, secure, and meets the functional requirements while providing clear guidance for developers and testers to validate the feature.
+
