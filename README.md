@@ -134,8 +134,7 @@ Functional requirements describe the core functionalities and behavior of the sy
   Provide a messaging feature enabling direct communication between guests and hosts.  
 - **Cancellation and Refunds:**  
   Support cancellation policies and automate refund processes based on predefined rules.  
-- **Review System:**  
-  Enable guests to leave reviews and ratings for properties and hosts&#8203;:contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}.
+
 
 ---
 
@@ -154,8 +153,7 @@ Non-functional requirements define the quality attributes and operational aspect
   Guarantee 99.9% uptime, minimizing maintenance downtime.  
 - **User-Friendliness:**  
   Provide an intuitive interface for a seamless user experience across devices.  
-- **Compatibility:**  
-  Ensure the system operates smoothly on a variety of devices, including desktops, smartphones, and tablets&#8203;:contentReference[oaicite:2]{index=2}&#8203;:contentReference[oaicite:3]{index=3}.
+
 
 ---
 
