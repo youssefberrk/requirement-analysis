@@ -161,35 +161,4 @@ Non-functional requirements define the quality attributes and operational aspect
 
 Understanding and documenting both functional and non-functional requirements ensures the system is designed to meet user expectations while delivering high performance and reliability. A well-balanced approach to both types of requirements lays a strong foundation for project success.
 
-## Use Case Diagrams
-
-### What Are Use Case Diagrams?
-Use Case Diagrams are visual representations of the interactions between actors (users or external systems) and the functionalities (use cases) of a system. They help to illustrate how different users will engage with the system, providing a high-level view of its functionality.
-
-### Benefits of Use Case Diagrams
-- **Simplifies Complex Systems:** Provides a clear and concise way to understand and communicate the functionalities of the system.
-- **Facilitates Requirement Analysis:** Helps in identifying and documenting system requirements effectively.
-- **Enhances Stakeholder Communication:** Serves as a bridge between technical teams and stakeholders, ensuring everyone has a shared understanding of the system's goals.
-- **Supports System Design:** Acts as a foundation for detailed system design and development.
-
-### Use Case Diagram for the Booking Management System
-Below is a use case diagram that highlights the interactions between the actors (User and Admin) and the use cases in the booking management system.
-
-![Use Case Diagram for Booking Management System](alx-booking-uc.png)
-
-### Key Components:
-- **Actors:**
-  - **Guest:** Interacts with the system to search for properties, book stays, leave reviews, and communicate with hosts.
-  - **Host:** Manages property listings, communicates with guests, and handles bookings.
-  - **Administrator:** Oversees platform operations, user management, and system maintenance.
-- **Use Cases:**
-  - **Search for Property:** Allows guests to find properties using filters.
-  - **Book Property:** Enables guests to make bookings and process payments.
-  - **Manage Listings:** Allows hosts to create, update, or delete property details.
-  - **Communicate:** Facilitates messaging between guests and hosts.
-  - **Leave Reviews:** Guests can share feedback about their stays.
-  - **Monitor Activities:** Administrators can track platform activities and resolve issues.
-
-This diagram provides a high-level overview of the functionalities and interactions, offering valuable insights for both development and stakeholder collaboration.
-
 
